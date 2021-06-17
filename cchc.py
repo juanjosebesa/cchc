@@ -26,7 +26,8 @@ HELP_TEXT_5 = "Ahora, para continuar, por favor hacer click en \"Empezar Anális
 FONT_SIZE = 14
 
 # Colores
-category_colors = ["#1f77b4","#ff7f0e","#2ca02c","#d62728","#9467bd","#8c564b","#e377c2"]
+# category_colors = ["#1f77b4","#ff7f0e","#2ca02c","#d62728","#9467bd","#8c564b","#e377c2"]
+category_colors = ["#1a249e","#4a8dff","#e66c37","#e044a6","#e044a6","#6b077a"]
 
 st.set_page_config(layout="wide")
 
